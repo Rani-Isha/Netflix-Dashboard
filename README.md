@@ -8,7 +8,7 @@ The objective of this project is to analyze the Netflix titles dataset using Pow
 - Available on Kaggle as well
 
 ## Dashboard
-[netflix_dashboard.png](https://github.com/Rani-Isha/Netflix-Dashboard/blob/main/netflix_dashboard.png)
+![Netflix Dashboard](netflix_dashboard.png)
 
 ## Visuals:
 Total Titles (KPI card)
